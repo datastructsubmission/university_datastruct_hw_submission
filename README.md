@@ -1,7 +1,7 @@
 # short usage instruction
 You can see how to use script in the terminal recording below.
 
-[![asciicast](https://asciinema.org/a/DFzRVeuwqbcD4KU5byn0jWLBj.svg)](https://asciinema.org/a/DFzRVeuwqbcD4KU5byn0jWLBj)
+[![asciicast](https://asciinema.org/a/1CNixXINX01dKlRM7OFl6oyb1.svg)](https://asciinema.org/a/1CNixXINX01dKlRM7OFl6oyb1)
 
 
 
